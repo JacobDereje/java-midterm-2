@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="09f1cbd2-feb8-4c9f-8978-63f004799493" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java midterm 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inherit/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inherit/Popeyes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inherit/chicFilA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inherit/restaurants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stacks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Tech.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoDArray.java" afterDir="false" />
+    <list default="true" id="09f1cbd2-feb8-4c9f-8978-63f004799493" name="Changes" comment="files">
+      <change beforePath="$PROJECT_DIR$/src/Stacks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stacks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669080613143</updated>
     </task>
+    <task id="LOCAL-00001" summary="files">
+      <created>1669086051608</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669086051608</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,6 +89,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="files" />
+    <option name="LAST_COMMIT_MESSAGE" value="files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
