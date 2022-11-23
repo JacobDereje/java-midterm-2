@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09f1cbd2-feb8-4c9f-8978-63f004799493" name="Changes" comment="files">
-      <change afterPath="$PROJECT_DIR$/src/abstraction/computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/abstraction/tech.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/linkedlists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/restaraunts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedLists/reverseLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,17 +34,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager">
+}</component>
+  <component name="RunManager" selected="Application.restaraunts">
     <configuration name="Stacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Stacks" />
       <module name="java midterm 2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="restaraunts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedLists.restaraunts" />
+      <module name="java midterm 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseLinkedList$LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedLists.reverseLinkedList$LinkedList" />
+      <module name="java midterm 2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="linkedLists.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -59,6 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.restaraunts" />
+        <item itemvalue="Application.reverseLinkedList$LinkedList" />
         <item itemvalue="Application.Stacks" />
         <item itemvalue="Application.twoDArray" />
       </list>
@@ -87,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669086372424</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="files">
+      <created>1669087285915</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1669087285915</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
