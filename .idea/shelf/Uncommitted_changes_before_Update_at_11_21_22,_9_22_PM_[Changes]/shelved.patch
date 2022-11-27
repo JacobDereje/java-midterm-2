@@ -1,0 +1,57 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"09f1cbd2-feb8-4c9f-8978-63f004799493\" name=\"Changes\" comment=\"\">\n      <change afterPath=\"$PROJECT_DIR$/.gitignore\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/misc.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/modules.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/uiDesigner.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/vcs.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/java midterm 2.iml\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Inherit/Driver.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Inherit/Popeyes.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Inherit/chicFilA.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Inherit/restaurants.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/Stacks.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/interfaces/Tech.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/interfaces/computer.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/interfaces/driver.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/interfaces/phone.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/twoDArray.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2HsjJ59r0d3obFouzL5gM3U3h1s\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\" selected=\"Application.Stacks\">\n    <configuration name=\"Stacks\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"Stacks\" />\n      <module name=\"java midterm 2\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"twoDArray\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"twoDArray\" />\n      <module name=\"java midterm 2\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.Stacks\" />\n        <item itemvalue=\"Application.twoDArray\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"09f1cbd2-feb8-4c9f-8978-63f004799493\" name=\"Changes\" comment=\"\" />\n      <created>1669080613143</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1669080613143</updated>\n    </task>\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/twoDArray.java</url>\n          <line>50</line>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 47038380ce677bd04f0a4001f9abe7d0b1cc6ace)
++++ b/.idea/workspace.xml	(date 1669087307059)
+@@ -4,25 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="09f1cbd2-feb8-4c9f-8978-63f004799493" name="Changes" comment="">
+-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/java midterm 2.iml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Inherit/Driver.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Inherit/Popeyes.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Inherit/chicFilA.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Inherit/restaurants.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/Stacks.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/interfaces/Tech.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/interfaces/computer.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/interfaces/driver.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/interfaces/phone.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/twoDArray.java" afterDir="false" />
+-    </list>
++    <list default="true" id="09f1cbd2-feb8-4c9f-8978-63f004799493" name="Changes" comment="" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -47,13 +29,13 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager" selected="Application.Stacks">
+     <configuration name="Stacks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="Stacks" />
