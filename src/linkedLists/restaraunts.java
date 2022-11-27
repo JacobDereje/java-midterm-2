@@ -18,7 +18,7 @@ public class restaraunts {
 
         System.out.println(restaraunts);
 
-        restaraunts current = head;
+//        restaraunts current = head;
 
     }
 

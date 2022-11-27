@@ -44,7 +44,7 @@ public class linkedlists{
 
         //    uses?
 
-        //    1. implement Stacks/Queues
+        //    1. implement Stacks.Stacks/Queues
 
         //    2. GPS navigation
 

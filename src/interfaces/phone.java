@@ -12,4 +12,5 @@ public class phone implements Tech{
     public void OS() {
         System.out.println("IOS");
     }
+
 }

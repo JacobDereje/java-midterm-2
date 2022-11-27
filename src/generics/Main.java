@@ -23,7 +23,6 @@ public class Main {
         System.out.print("String Array: ");
         displayArray(stringArray);
         System.out.println(firstIndex(charArray));
-
     }
 
     // Generic method

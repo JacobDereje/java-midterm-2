@@ -45,7 +45,7 @@ public class reverseLinkedList {
         }
 
         // Driver Code
-        public static void main(String[] args)
+        public void main(String[] args)
         {
             LinkedList list = new LinkedList();
             list.head = new Node(85);

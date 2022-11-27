@@ -5,4 +5,8 @@ public class computer extends tech{
     void portable() {
         System.out.println("This tech is not portable");
     }
+
+    void isBig(){
+        System.out.println("this computer is big");
+    }
 }

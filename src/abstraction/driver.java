@@ -8,6 +8,7 @@ public class driver {
 
         android.portable();
         windows.portable();
+        windows.isBig();
 
     }
 }

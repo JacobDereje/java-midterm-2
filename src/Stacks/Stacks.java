@@ -1,3 +1,5 @@
+package Stacks;
+
 import java.util.Stack;
 
 
@@ -7,12 +9,6 @@ public class Stacks{
 
 
     public static void main(String[] args) {
-
-
-
-        // *****************************************************
-
-
 
         // stack = LIFO data structure. Last-In First-Out
 
@@ -36,10 +32,6 @@ public class Stacks{
 
 
 
-        // *****************************************************
-
-
-
         Stack<String> stack = new Stack<String>();
 
 
@@ -60,11 +52,11 @@ public class Stacks{
 
 
 
-        //String myFavGame = stack.pop();fsdipkf
+        stack.pop();
 
-        //System.out.println(stack.peek());
+        System.out.println(stack.peek());
 
-        //System.out.println(stack.search("Fallout76"));
+        System.out.println(stack.search("DOOM"));
 
         System.out.println(stack);
 

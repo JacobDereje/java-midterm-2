@@ -29,7 +29,11 @@ public class Node {
     }
 
     public static void main(String[] args) {
-        countNodes();
+        Node newNode = new Node (5);
+        Node newNode2 = new Node (6);
+        Node newNode3 = new Node (7);
+
+        countNodes(newNode);
     }
 
 }
